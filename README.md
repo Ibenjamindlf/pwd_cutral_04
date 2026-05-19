@@ -1,4 +1,4 @@
-# Proyecto Final PWD - Sistema de Gestión de Usuarios
+# Proyecto PWD - Sistema de Gestión de Usuarios
 
 Este proyecto es una aplicación web desarrollada en PHP que implementa la arquitectura MVC (Modelo-Vista-Controlador). Está diseñado para ejecutarse de manera local sobre un entorno XAMPP, utilizando Apache como servidor web y MariaDB o MySQL como motor de base de datos.
 
